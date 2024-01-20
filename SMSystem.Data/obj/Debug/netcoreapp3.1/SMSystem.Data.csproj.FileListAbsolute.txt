@@ -1,0 +1,113 @@
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem.Data\bin\Debug\netcoreapp3.1\SMSystem.Data.deps.json
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem.Data\bin\Debug\netcoreapp3.1\SMSystem.Data.runtimeconfig.json
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem.Data\bin\Debug\netcoreapp3.1\SMSystem.Data.runtimeconfig.dev.json
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem.Data\bin\Debug\netcoreapp3.1\SMSystem.Data.dll
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem.Data\bin\Debug\netcoreapp3.1\SMSystem.Data.pdb
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem.Data\bin\Debug\netcoreapp3.1\SMSystem.Core.dll
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem.Data\bin\Debug\netcoreapp3.1\SMSystem.Core.pdb
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem.Data\obj\Debug\netcoreapp3.1\SMSystem.Data.csproj.AssemblyReference.cache
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem.Data\obj\Debug\netcoreapp3.1\SMSystem.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem.Data\obj\Debug\netcoreapp3.1\SMSystem.Data.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem.Data\obj\Debug\netcoreapp3.1\SMSystem.Data.AssemblyInfo.cs
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem.Data\obj\Debug\netcoreapp3.1\SMSystem.Data.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem.Data\obj\Debug\netcoreapp3.1\SMSystem.Data.csproj.CopyComplete
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem.Data\obj\Debug\netcoreapp3.1\SMSystem.Data.dll
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem.Data\obj\Debug\netcoreapp3.1\SMSystem.Data.pdb
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem.Data\obj\Debug\netcoreapp3.1\SMSystem.Data.genruntimeconfig.cache
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem.Data\bin\Debug\netcoreapp3.1\SMSystem.Data.deps.json
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem.Data\bin\Debug\netcoreapp3.1\SMSystem.Data.runtimeconfig.json
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem.Data\bin\Debug\netcoreapp3.1\SMSystem.Data.runtimeconfig.dev.json
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem.Data\bin\Debug\netcoreapp3.1\SMSystem.Data.dll
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem.Data\bin\Debug\netcoreapp3.1\SMSystem.Data.pdb
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem.Data\bin\Debug\netcoreapp3.1\SMSystem.Core.dll
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem.Data\bin\Debug\netcoreapp3.1\SMSystem.Core.pdb
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem.Data\obj\Debug\netcoreapp3.1\SMSystem.Data.csproj.AssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem.Data\obj\Debug\netcoreapp3.1\SMSystem.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem.Data\obj\Debug\netcoreapp3.1\SMSystem.Data.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem.Data\obj\Debug\netcoreapp3.1\SMSystem.Data.AssemblyInfo.cs
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem.Data\obj\Debug\netcoreapp3.1\SMSystem.Data.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem.Data\obj\Debug\netcoreapp3.1\SMSystem.Data.csproj.CopyComplete
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem.Data\obj\Debug\netcoreapp3.1\SMSystem.Data.dll
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem.Data\obj\Debug\netcoreapp3.1\SMSystem.Data.pdb
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem.Data\obj\Debug\netcoreapp3.1\SMSystem.Data.genruntimeconfig.cache
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Data\bin\Debug\netcoreapp3.1\SMSystem.Data.deps.json
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Data\bin\Debug\netcoreapp3.1\SMSystem.Data.runtimeconfig.json
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Data\bin\Debug\netcoreapp3.1\SMSystem.Data.runtimeconfig.dev.json
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Data\bin\Debug\netcoreapp3.1\SMSystem.Data.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Data\bin\Debug\netcoreapp3.1\SMSystem.Data.pdb
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Data\bin\Debug\netcoreapp3.1\SMSystem.Core.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Data\bin\Debug\netcoreapp3.1\SMSystem.Core.pdb
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Data\obj\Debug\netcoreapp3.1\SMSystem.Data.csproj.AssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Data\obj\Debug\netcoreapp3.1\SMSystem.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Data\obj\Debug\netcoreapp3.1\SMSystem.Data.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Data\obj\Debug\netcoreapp3.1\SMSystem.Data.AssemblyInfo.cs
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Data\obj\Debug\netcoreapp3.1\SMSystem.Data.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Data\obj\Debug\netcoreapp3.1\SMSystem.Data.csproj.CopyComplete
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Data\obj\Debug\netcoreapp3.1\SMSystem.Data.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Data\obj\Debug\netcoreapp3.1\SMSystem.Data.pdb
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Data\obj\Debug\netcoreapp3.1\SMSystem.Data.genruntimeconfig.cache
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem.Data\bin\Debug\netcoreapp3.1\SMSystem.Data.deps.json
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem.Data\bin\Debug\netcoreapp3.1\SMSystem.Data.runtimeconfig.json
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem.Data\bin\Debug\netcoreapp3.1\SMSystem.Data.runtimeconfig.dev.json
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem.Data\bin\Debug\netcoreapp3.1\SMSystem.Data.dll
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem.Data\bin\Debug\netcoreapp3.1\SMSystem.Data.pdb
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem.Data\bin\Debug\netcoreapp3.1\SMSystem.Core.dll
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem.Data\bin\Debug\netcoreapp3.1\SMSystem.Core.pdb
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem.Data\obj\Debug\netcoreapp3.1\SMSystem.Data.csproj.AssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem.Data\obj\Debug\netcoreapp3.1\SMSystem.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem.Data\obj\Debug\netcoreapp3.1\SMSystem.Data.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem.Data\obj\Debug\netcoreapp3.1\SMSystem.Data.AssemblyInfo.cs
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem.Data\obj\Debug\netcoreapp3.1\SMSystem.Data.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem.Data\obj\Debug\netcoreapp3.1\SMSystem.Data.csproj.CopyComplete
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem.Data\obj\Debug\netcoreapp3.1\SMSystem.Data.dll
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem.Data\obj\Debug\netcoreapp3.1\SMSystem.Data.pdb
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem.Data\obj\Debug\netcoreapp3.1\SMSystem.Data.genruntimeconfig.cache
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem.Data\bin\Debug\netcoreapp3.1\SMSystem.Data.deps.json
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem.Data\bin\Debug\netcoreapp3.1\SMSystem.Data.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem.Data\bin\Debug\netcoreapp3.1\SMSystem.Data.runtimeconfig.dev.json
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem.Data\bin\Debug\netcoreapp3.1\SMSystem.Data.dll
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem.Data\bin\Debug\netcoreapp3.1\SMSystem.Data.pdb
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem.Data\bin\Debug\netcoreapp3.1\SMSystem.Core.dll
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem.Data\bin\Debug\netcoreapp3.1\SMSystem.Core.pdb
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem.Data\obj\Debug\netcoreapp3.1\SMSystem.Data.csproj.AssemblyReference.cache
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem.Data\obj\Debug\netcoreapp3.1\SMSystem.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem.Data\obj\Debug\netcoreapp3.1\SMSystem.Data.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem.Data\obj\Debug\netcoreapp3.1\SMSystem.Data.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem.Data\obj\Debug\netcoreapp3.1\SMSystem.Data.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem.Data\obj\Debug\netcoreapp3.1\SMSystem.Data.csproj.CopyComplete
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem.Data\obj\Debug\netcoreapp3.1\SMSystem.Data.dll
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem.Data\obj\Debug\netcoreapp3.1\SMSystem.Data.pdb
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem.Data\obj\Debug\netcoreapp3.1\SMSystem.Data.genruntimeconfig.cache
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Data\bin\Debug\netcoreapp3.1\SMSystem.Data.deps.json
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Data\bin\Debug\netcoreapp3.1\SMSystem.Data.runtimeconfig.json
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Data\bin\Debug\netcoreapp3.1\SMSystem.Data.runtimeconfig.dev.json
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Data\bin\Debug\netcoreapp3.1\SMSystem.Data.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Data\bin\Debug\netcoreapp3.1\SMSystem.Data.pdb
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Data\bin\Debug\netcoreapp3.1\SMSystem.Core.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Data\bin\Debug\netcoreapp3.1\SMSystem.Core.pdb
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Data\obj\Debug\netcoreapp3.1\SMSystem.Data.csproj.AssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Data\obj\Debug\netcoreapp3.1\SMSystem.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Data\obj\Debug\netcoreapp3.1\SMSystem.Data.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Data\obj\Debug\netcoreapp3.1\SMSystem.Data.AssemblyInfo.cs
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Data\obj\Debug\netcoreapp3.1\SMSystem.Data.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Data\obj\Debug\netcoreapp3.1\SMSystem.Data.csproj.CopyComplete
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Data\obj\Debug\netcoreapp3.1\SMSystem.Data.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Data\obj\Debug\netcoreapp3.1\SMSystem.Data.pdb
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Data\obj\Debug\netcoreapp3.1\SMSystem.Data.genruntimeconfig.cache
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Data\bin\Debug\netcoreapp3.1\SMSystem.Data.deps.json
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Data\bin\Debug\netcoreapp3.1\SMSystem.Data.runtimeconfig.json
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Data\bin\Debug\netcoreapp3.1\SMSystem.Data.runtimeconfig.dev.json
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Data\bin\Debug\netcoreapp3.1\SMSystem.Data.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Data\bin\Debug\netcoreapp3.1\SMSystem.Data.pdb
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Data\bin\Debug\netcoreapp3.1\SMSystem.Core.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Data\bin\Debug\netcoreapp3.1\SMSystem.Core.pdb
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Data\obj\Debug\netcoreapp3.1\SMSystem.Data.csproj.AssemblyReference.cache
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Data\obj\Debug\netcoreapp3.1\SMSystem.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Data\obj\Debug\netcoreapp3.1\SMSystem.Data.AssemblyInfoInputs.cache
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Data\obj\Debug\netcoreapp3.1\SMSystem.Data.AssemblyInfo.cs
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Data\obj\Debug\netcoreapp3.1\SMSystem.Data.csproj.CoreCompileInputs.cache
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Data\obj\Debug\netcoreapp3.1\SMSystem.Data.sourcelink.json
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Data\obj\Debug\netcoreapp3.1\SMSystem.Data.csproj.CopyComplete
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Data\obj\Debug\netcoreapp3.1\SMSystem.Data.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Data\obj\Debug\netcoreapp3.1\SMSystem.Data.pdb
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Data\obj\Debug\netcoreapp3.1\SMSystem.Data.genruntimeconfig.cache
