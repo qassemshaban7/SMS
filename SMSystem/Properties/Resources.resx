@@ -1,0 +1,361 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="about_32px" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\about_32px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="AddNotificationText" xml:space="preserve">
+    <value>تمت عملية الاضافة بنجاح</value>
+  </data>
+  <data name="add_32px" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\add_32px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="chart_32px" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\chart_32px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="combo_chart_32px" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\combo_chart_32px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="DeleteActionCaption" xml:space="preserve">
+    <value>هل انت متأكد من هذا الاجراء. لا يمكن استرجاع البيانات</value>
+  </data>
+  <data name="DeleteActionText" xml:space="preserve">
+    <value>اجراء حذف</value>
+  </data>
+  <data name="DeleteNotificationText" xml:space="preserve">
+    <value>تمت عملية الحذف بنجاح</value>
+  </data>
+  <data name="DeleteOutComeText" xml:space="preserve">
+    <value>اجراء حذف</value>
+  </data>
+  <data name="Delete_32px" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Delete_32px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="DeletOutComeCaption" xml:space="preserve">
+    <value>ان عملية الحذف هذه لا تؤثر على المواد ( المواد  المتوفرة). اذا كنت بصدد ازالة المواد ايضا يجب عليك التعديل ثم الازالة</value>
+  </data>
+  <data name="department_store_32px" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\department_store_32px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="DuplicateDataCaption" xml:space="preserve">
+    <value>بعض البيانات لا يجب ان تتكرر مثل المعرف. تأكد من تغييرة ثم اعد المحاولة</value>
+  </data>
+  <data name="DuplicateDataText" xml:space="preserve">
+    <value>تكرار البيانات</value>
+  </data>
+  <data name="EditNotificationText" xml:space="preserve">
+    <value>تمت عملية التعديل بنجاح</value>
+  </data>
+  <data name="edit_32px" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\edit_32px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="EmptyDataText" xml:space="preserve">
+    <value>لا يوجد بيانات. استخدم الازار اعلاه لاجراء العمليات على البيانات</value>
+  </data>
+  <data name="EmptyGridViewCaption" xml:space="preserve">
+    <value>شبكة عرض البيانات فارغة. تأكد من اختيار صف لاتمام العملية</value>
+  </data>
+  <data name="EmptyGridViewText" xml:space="preserve">
+    <value>شبكة عرض البيانات لديك فارغة</value>
+  </data>
+  <data name="FiledsEmptyCaption" xml:space="preserve">
+    <value>الخانة التي تحتوي على علامة * مطلوبة. تأكد من ادخالها ثم اعد المحاولة</value>
+  </data>
+  <data name="FiledsEmptyText" xml:space="preserve">
+    <value>بعض الحقول مطلوبة</value>
+  </data>
+  <data name="GeneralText" xml:space="preserve">
+    <value>مخزن</value>
+  </data>
+  <data name="help_32px" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\help_32px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="home_32px" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\home_32px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8_box_96px_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\icons8_box_96px_1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8_Close_80px" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\icons8_Close_80px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8_csv_80px_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\icons8_csv_80px_1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8_customer_80px_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\icons8_customer_80px_1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8_damaged_parcel_32px_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\icons8_damaged_parcel_32px_1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8_damaged_parcel_96px" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\icons8_damaged_parcel_96px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8_database_restore_80px_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\icons8_database_restore_80px_1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8_data_backup_80px" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\icons8_data_backup_80px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8_export_32px" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\icons8_export_32px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8_external_32px" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icons8_external_32px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8_external_80px" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\icons8_external_80px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8_image_200px_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\icons8_image_200px_1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8_internal_32px_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icons8_internal_32px_1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8_internal_96px_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\icons8_internal_96px_1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8_memo_32px" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\icons8_memo_32px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8_moleskine_32px_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\icons8_moleskine_32px_1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8_near_me_160px" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\icons8_near_me_160px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8_Notification_128px" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\icons8_Notification_128px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8_ok_200px" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\icons8_ok_200px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8_printer_96px" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\icons8_printer_96px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8_scan_stock_128px" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\icons8_scan_stock_128px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8_select_users_32px" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\icons8_select_users_32px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8_select_users_32px_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\icons8_select_users_32px_1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8_supplier_160px_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\icons8_supplier_160px_1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8_users_96px_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\icons8_users_96px_1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8_Walmart_200px" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\icons8_Walmart_200px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="InvalidInputCaption" xml:space="preserve">
+    <value>يرجى ادخال قيمة صحيحة</value>
+  </data>
+  <data name="InvalidIputText" xml:space="preserve">
+    <value>خطأ ادخال</value>
+  </data>
+  <data name="Loading_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Loading_icon.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Notification_128px" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Notification_128px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="OnDamgeCaption" xml:space="preserve">
+    <value>سيتم نقل المادة الى قسم المواد التالفة</value>
+  </data>
+  <data name="OnDamgeText" xml:space="preserve">
+    <value>اجراء اتلاف</value>
+  </data>
+  <data name="open_box_32px" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\open_box_32px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="OutOfConscinceCaption" xml:space="preserve">
+    <value>سيتم نقل المادة الى قسم المواد التي خارج الذمة</value>
+  </data>
+  <data name="OutOfConscinceText" xml:space="preserve">
+    <value>نقل خارج الذمة</value>
+  </data>
+  <data name="print_32px" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\print_32px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="QuantityMaterialCaption" xml:space="preserve">
+    <value>لا يمكن ان تكون الكمية المضافة اكبر من الكمية المتوفرة, انظر الى الكمية للمادة الحالية وتأكد من انها اكبر او لا تساوي صفر ثم اعد المحاولة</value>
+  </data>
+  <data name="QuantityMaterialText" xml:space="preserve">
+    <value>كمية غير صحيحة</value>
+  </data>
+  <data name="refresh_32px" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\refresh_32px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SavedDataCaption" xml:space="preserve">
+    <value>يبدو انك لم تقم بعملية الحفظ ولديك بيانات مضافة. سوف نحتفظ بها ويمكنك الرجوع لها في عملية الاضافة القادمة</value>
+  </data>
+  <data name="SavedDataText" xml:space="preserve">
+    <value>تذكر !</value>
+  </data>
+  <data name="save_32px" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\save_32px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="search_32px" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\search_32px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ServerConnectionCaption" xml:space="preserve">
+    <value>يبدو ان لديك مشكلة في في هذه العملية وهذا يعزى الى عده اسباب من بينها علاقة تربط هذه البيانات في بيانات اخرى يجب حذفها اولا او ريما عدم صحة تثبيت السيرفر او صلاحيات الوصول او عدم تثبيت قاعدة البيانات او خطأ في الاتصال في قاعدة البيانات. يمكنك تعديل نص الاتصال في اعدادات النظام او يمكنك الاتصال في مدير النظام لحل المشكلة</value>
+  </data>
+  <data name="ServerConnectionText" xml:space="preserve">
+    <value>خطأ في الاتصال في قاعدة البيانات</value>
+  </data>
+  <data name="settings_32px" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\settings_32px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ShowDeleteMaterialCaption" xml:space="preserve">
+    <value>ان هذا الاجراء يؤدي الى حذف المادة بشكل كامل من هنا وايضا من المواد</value>
+  </data>
+  <data name="ShowMoveDamgeCaption" xml:space="preserve">
+    <value>تؤدي هذه العملية الى حذف المادة بشكل كامل وسيتم التأثير في المواد </value>
+  </data>
+  <data name="ShowMoveDamgeText" xml:space="preserve">
+    <value>حذف مادة</value>
+  </data>
+  <data name="ShowRowsCaption" xml:space="preserve">
+    <value>لحساسية اجراء الحذف لابد لك ان تقوم بأختيار كامل السطر, واذا اردت حذف كامل البيانات يمكنك الضغط CTRL+A</value>
+  </data>
+  <data name="ShowRowText" xml:space="preserve">
+    <value>تأكد من اختيار كامل السطر لحذفة</value>
+  </data>
+  <data name="sorting_32px" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sorting_32px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="supplier_32px" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\supplier_32px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="users_32px" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\users_32px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_2022_09_08_123734" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\2022-09-08_123734.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_2022_09_08_1237341" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\2022-09-08_123734.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+</root>

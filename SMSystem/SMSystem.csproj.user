@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Gui\AboutBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Gui\Analyze\AnalyzeUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Gui\CustomersGui\CustomerAddForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Gui\CustomersGui\CustomerConscienceCardUserForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Gui\CustomersGui\CustomerUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Gui\HomeGui\HomeUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Gui\IncomeGui\DamgeActionBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Gui\OtherGui\LoadingUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Gui\OtherGui\NotificaitonPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Gui\OtherGui\PrintDialogForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Gui\OutComeGui\OutComeAddForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Gui\OutComeGui\OutComeUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Gui\Reports\ReceiptUserControl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Gui\SettingsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Gui\StartForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Gui\StoresGui\StoreAddForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Gui\StoresGui\StoreUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

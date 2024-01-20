@@ -1,0 +1,814 @@
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\bin\Debug\netcoreapp3.1\SMSystem.exe
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\bin\Debug\netcoreapp3.1\SMSystem.deps.json
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\bin\Debug\netcoreapp3.1\SMSystem.runtimeconfig.json
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\bin\Debug\netcoreapp3.1\SMSystem.runtimeconfig.dev.json
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\bin\Debug\netcoreapp3.1\SMSystem.dll
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\bin\Debug\netcoreapp3.1\SMSystem.pdb
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\bin\Debug\netcoreapp3.1\ClosedXML.dll
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\bin\Debug\netcoreapp3.1\ExcelNumberFormat.dll
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\bin\Debug\netcoreapp3.1\FastMember.dll
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\bin\Debug\netcoreapp3.1\SMSystem.Core.dll
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\bin\Debug\netcoreapp3.1\SMSystem.Data.dll
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\bin\Debug\netcoreapp3.1\SMSystem.Core.pdb
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\bin\Debug\netcoreapp3.1\SMSystem.Data.pdb
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.csproj.AssemblyReference.cache
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.AboutBox.resources
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.Analyze.AnalyzeUserControl.resources
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.CustomersGui.AddCustomerConscienceCard.resources
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.CustomersGui.CustomerAddForm.resources
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.CustomersGui.CustomerConscienceCardUserForm.resources
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.CustomersGui.CustomerUserControl.resources
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.DamageGui.DamageAddForm.resources
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.DamageGui.DamageUserControl.resources
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.Home.HomeUserControl.resources
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.IncomeGui.DamgeActionBox.resources
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.IncomeGui.IncomeAddForm.resources
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.IncomeGui.IncomeUserControl.resources
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.MaterailsGui.MaterailsAddForm.resources
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.MaterailsGui.MaterailsUserControl.resources
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.OtherGui.LoadingUser.resources
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.OtherGui.NotificaitonPanel.resources
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.OtherGui.NotifictionUser.resources
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.OtherGui.PrintDialogForm.resources
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.OutComeGui.OutComeAddForm.resources
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.OutComeGui.OutComeUserControl.resources
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.OutOfConscince.OutOfConscenseAddForm.resources
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.OutOfConscince.OutOfConscenseUserControl.resources
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.Reports.ReceiptUserControl.resources
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.SettingsForm.resources
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.StartForm.resources
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.StoresGui.StoreAddForm.resources
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.StoresGui.StoreUserControl.resources
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.SuppliersGui.SupplierAddForm.resources
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.SuppliersGui.SupplierUserControl.resources
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.UserGui.UserAddForm.resources
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.UserGui.UserLogin.resources
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.UserGui.UserUserControl.resources
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Main.resources
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Properties.Resources.resources
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.csproj.GenerateResource.cache
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.AssemblyInfo.cs
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.csproj.CopyComplete
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.dll
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.pdb
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.genruntimeconfig.cache
+C:\Users\TOSHIBA\Source\Repos\stock\SMSystem\bin\Debug\netcoreapp3.1\SMSystem.dll.config
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\bin\Debug\netcoreapp3.1\SMSystem.exe
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\bin\Debug\netcoreapp3.1\SMSystem.dll.config
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\bin\Debug\netcoreapp3.1\SMSystem.deps.json
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\bin\Debug\netcoreapp3.1\SMSystem.runtimeconfig.json
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\bin\Debug\netcoreapp3.1\SMSystem.runtimeconfig.dev.json
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\bin\Debug\netcoreapp3.1\SMSystem.dll
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\bin\Debug\netcoreapp3.1\SMSystem.pdb
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\bin\Debug\netcoreapp3.1\ClosedXML.dll
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\bin\Debug\netcoreapp3.1\ExcelNumberFormat.dll
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\bin\Debug\netcoreapp3.1\FastMember.dll
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\bin\Debug\netcoreapp3.1\SMSystem.Core.dll
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\bin\Debug\netcoreapp3.1\SMSystem.Data.dll
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\bin\Debug\netcoreapp3.1\SMSystem.Core.pdb
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\bin\Debug\netcoreapp3.1\SMSystem.Data.pdb
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.csproj.AssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.AboutBox.resources
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.Analyze.AnalyzeUserControl.resources
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.CustomersGui.AddCustomerConscienceCard.resources
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.CustomersGui.CustomerAddForm.resources
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.CustomersGui.CustomerConscienceCardUserForm.resources
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.CustomersGui.CustomerUserControl.resources
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.DamageGui.DamageAddForm.resources
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.DamageGui.DamageUserControl.resources
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.Home.HomeUserControl.resources
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.IncomeGui.DamgeActionBox.resources
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.IncomeGui.IncomeAddForm.resources
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.IncomeGui.IncomeUserControl.resources
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.MaterailsGui.MaterailsAddForm.resources
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.MaterailsGui.MaterailsUserControl.resources
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.OtherGui.LoadingUser.resources
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.OtherGui.NotificaitonPanel.resources
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.OtherGui.NotifictionUser.resources
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.OtherGui.PrintDialogForm.resources
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.OutComeGui.OutComeAddForm.resources
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.OutComeGui.OutComeUserControl.resources
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.OutOfConscince.OutOfConscenseAddForm.resources
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.OutOfConscince.OutOfConscenseUserControl.resources
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.Reports.ReceiptUserControl.resources
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.SettingsForm.resources
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.StartForm.resources
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.StoresGui.StoreAddForm.resources
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.StoresGui.StoreUserControl.resources
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.SuppliersGui.SupplierAddForm.resources
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.SuppliersGui.SupplierUserControl.resources
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.UserGui.UserAddForm.resources
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.UserGui.UserLogin.resources
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.UserGui.UserUserControl.resources
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Main.resources
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Properties.Resources.resources
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.csproj.GenerateResource.cache
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.AssemblyInfo.cs
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.csproj.CopyComplete
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.dll
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.pdb
+C:\Users\TOSHIBA\Desktop\warehouse\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.genruntimeconfig.cache
+C:\Users\TOSHIBA\Desktop\last\SMSystem\bin\Debug\netcoreapp3.1\SMSystem.exe
+C:\Users\TOSHIBA\Desktop\last\SMSystem\bin\Debug\netcoreapp3.1\SMSystem.dll.config
+C:\Users\TOSHIBA\Desktop\last\SMSystem\bin\Debug\netcoreapp3.1\SMSystem.deps.json
+C:\Users\TOSHIBA\Desktop\last\SMSystem\bin\Debug\netcoreapp3.1\SMSystem.runtimeconfig.json
+C:\Users\TOSHIBA\Desktop\last\SMSystem\bin\Debug\netcoreapp3.1\SMSystem.runtimeconfig.dev.json
+C:\Users\TOSHIBA\Desktop\last\SMSystem\bin\Debug\netcoreapp3.1\SMSystem.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem\bin\Debug\netcoreapp3.1\SMSystem.pdb
+C:\Users\TOSHIBA\Desktop\last\SMSystem\bin\Debug\netcoreapp3.1\ClosedXML.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem\bin\Debug\netcoreapp3.1\ExcelNumberFormat.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem\bin\Debug\netcoreapp3.1\FastMember.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\TOSHIBA\Desktop\last\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\TOSHIBA\Desktop\last\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\TOSHIBA\Desktop\last\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\TOSHIBA\Desktop\last\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem\bin\Debug\netcoreapp3.1\SMSystem.Core.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem\bin\Debug\netcoreapp3.1\SMSystem.Data.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem\bin\Debug\netcoreapp3.1\SMSystem.Core.pdb
+C:\Users\TOSHIBA\Desktop\last\SMSystem\bin\Debug\netcoreapp3.1\SMSystem.Data.pdb
+C:\Users\TOSHIBA\Desktop\last\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.csproj.AssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\last\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.AboutBox.resources
+C:\Users\TOSHIBA\Desktop\last\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.Analyze.AnalyzeUserControl.resources
+C:\Users\TOSHIBA\Desktop\last\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.CustomersGui.AddCustomerConscienceCard.resources
+C:\Users\TOSHIBA\Desktop\last\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.CustomersGui.CustomerAddForm.resources
+C:\Users\TOSHIBA\Desktop\last\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.CustomersGui.CustomerConscienceCardUserForm.resources
+C:\Users\TOSHIBA\Desktop\last\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.CustomersGui.CustomerUserControl.resources
+C:\Users\TOSHIBA\Desktop\last\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.DamageGui.DamageAddForm.resources
+C:\Users\TOSHIBA\Desktop\last\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.DamageGui.DamageUserControl.resources
+C:\Users\TOSHIBA\Desktop\last\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.Home.HomeUserControl.resources
+C:\Users\TOSHIBA\Desktop\last\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.IncomeGui.DamgeActionBox.resources
+C:\Users\TOSHIBA\Desktop\last\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.IncomeGui.IncomeAddForm.resources
+C:\Users\TOSHIBA\Desktop\last\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.IncomeGui.IncomeUserControl.resources
+C:\Users\TOSHIBA\Desktop\last\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.MaterailsGui.MaterailsAddForm.resources
+C:\Users\TOSHIBA\Desktop\last\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.MaterailsGui.MaterailsUserControl.resources
+C:\Users\TOSHIBA\Desktop\last\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.OtherGui.LoadingUser.resources
+C:\Users\TOSHIBA\Desktop\last\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.OtherGui.NotificaitonPanel.resources
+C:\Users\TOSHIBA\Desktop\last\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.OtherGui.NotifictionUser.resources
+C:\Users\TOSHIBA\Desktop\last\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.OtherGui.PrintDialogForm.resources
+C:\Users\TOSHIBA\Desktop\last\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.OutComeGui.OutComeAddForm.resources
+C:\Users\TOSHIBA\Desktop\last\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.OutComeGui.OutComeUserControl.resources
+C:\Users\TOSHIBA\Desktop\last\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.OutOfConscince.OutOfConscenseAddForm.resources
+C:\Users\TOSHIBA\Desktop\last\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.OutOfConscince.OutOfConscenseUserControl.resources
+C:\Users\TOSHIBA\Desktop\last\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.Reports.ReceiptUserControl.resources
+C:\Users\TOSHIBA\Desktop\last\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.SettingsForm.resources
+C:\Users\TOSHIBA\Desktop\last\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.StartForm.resources
+C:\Users\TOSHIBA\Desktop\last\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.StoresGui.StoreAddForm.resources
+C:\Users\TOSHIBA\Desktop\last\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.StoresGui.StoreUserControl.resources
+C:\Users\TOSHIBA\Desktop\last\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.SuppliersGui.SupplierAddForm.resources
+C:\Users\TOSHIBA\Desktop\last\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.SuppliersGui.SupplierUserControl.resources
+C:\Users\TOSHIBA\Desktop\last\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.UserGui.UserAddForm.resources
+C:\Users\TOSHIBA\Desktop\last\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.UserGui.UserLogin.resources
+C:\Users\TOSHIBA\Desktop\last\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.UserGui.UserUserControl.resources
+C:\Users\TOSHIBA\Desktop\last\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Main.resources
+C:\Users\TOSHIBA\Desktop\last\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Properties.Resources.resources
+C:\Users\TOSHIBA\Desktop\last\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.csproj.GenerateResource.cache
+C:\Users\TOSHIBA\Desktop\last\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\Desktop\last\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\Desktop\last\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.AssemblyInfo.cs
+C:\Users\TOSHIBA\Desktop\last\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\Desktop\last\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.csproj.CopyComplete
+C:\Users\TOSHIBA\Desktop\last\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.pdb
+C:\Users\TOSHIBA\Desktop\last\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.genruntimeconfig.cache
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\bin\Debug\netcoreapp3.1\SMSystem.exe
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\bin\Debug\netcoreapp3.1\SMSystem.dll.config
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\bin\Debug\netcoreapp3.1\SMSystem.deps.json
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\bin\Debug\netcoreapp3.1\SMSystem.runtimeconfig.json
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\bin\Debug\netcoreapp3.1\SMSystem.runtimeconfig.dev.json
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\bin\Debug\netcoreapp3.1\SMSystem.dll
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\bin\Debug\netcoreapp3.1\SMSystem.pdb
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\bin\Debug\netcoreapp3.1\ClosedXML.dll
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\bin\Debug\netcoreapp3.1\ExcelNumberFormat.dll
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\bin\Debug\netcoreapp3.1\FastMember.dll
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\bin\Debug\netcoreapp3.1\SMSystem.Core.dll
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\bin\Debug\netcoreapp3.1\SMSystem.Data.dll
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\bin\Debug\netcoreapp3.1\SMSystem.Core.pdb
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\bin\Debug\netcoreapp3.1\SMSystem.Data.pdb
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.csproj.AssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.AboutBox.resources
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.Analyze.AnalyzeUserControl.resources
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.CustomersGui.AddCustomerConscienceCard.resources
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.CustomersGui.CustomerAddForm.resources
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.CustomersGui.CustomerConscienceCardUserForm.resources
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.CustomersGui.CustomerUserControl.resources
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.DamageGui.DamageAddForm.resources
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.DamageGui.DamageUserControl.resources
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.Home.HomeUserControl.resources
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.IncomeGui.DamgeActionBox.resources
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.IncomeGui.IncomeAddForm.resources
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.IncomeGui.IncomeUserControl.resources
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.MaterailsGui.MaterailsAddForm.resources
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.MaterailsGui.MaterailsUserControl.resources
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.OtherGui.LoadingUser.resources
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.OtherGui.NotificaitonPanel.resources
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.OtherGui.NotifictionUser.resources
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.OtherGui.PrintDialogForm.resources
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.OutComeGui.OutComeAddForm.resources
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.OutComeGui.OutComeUserControl.resources
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.OutOfConscince.OutOfConscenseAddForm.resources
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.OutOfConscince.OutOfConscenseUserControl.resources
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.Reports.ReceiptUserControl.resources
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.SettingsForm.resources
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.StartForm.resources
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.StoresGui.StoreAddForm.resources
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.StoresGui.StoreUserControl.resources
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.SuppliersGui.SupplierAddForm.resources
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.SuppliersGui.SupplierUserControl.resources
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.UserGui.UserAddForm.resources
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.UserGui.UserLogin.resources
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.UserGui.UserUserControl.resources
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Main.resources
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Properties.Resources.resources
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.csproj.GenerateResource.cache
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.AssemblyInfo.cs
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.csproj.CopyComplete
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.dll
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.pdb
+C:\Users\TOSHIBA\Desktop\last - Copy\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.genruntimeconfig.cache
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\SMSystem.exe
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\SMSystem.dll.config
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\SMSystem.deps.json
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\SMSystem.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\SMSystem.runtimeconfig.dev.json
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\SMSystem.dll
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\SMSystem.pdb
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\ClosedXML.dll
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\ExcelNumberFormat.dll
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\FastMember.dll
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\SMSystem.Core.dll
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\SMSystem.Data.dll
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\SMSystem.Core.pdb
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\SMSystem.Data.pdb
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.csproj.AssemblyReference.cache
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.AboutBox.resources
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.Analyze.AnalyzeUserControl.resources
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.CustomersGui.AddCustomerConscienceCard.resources
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.CustomersGui.CustomerAddForm.resources
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.CustomersGui.CustomerConscienceCardUserForm.resources
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.CustomersGui.CustomerUserControl.resources
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.DamageGui.DamageAddForm.resources
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.DamageGui.DamageUserControl.resources
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.Home.HomeUserControl.resources
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.IncomeGui.DamgeActionBox.resources
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.IncomeGui.IncomeAddForm.resources
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.IncomeGui.IncomeUserControl.resources
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.MaterailsGui.MaterailsAddForm.resources
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.MaterailsGui.MaterailsUserControl.resources
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.OtherGui.LoadingUser.resources
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.OtherGui.NotificaitonPanel.resources
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.OtherGui.NotifictionUser.resources
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.OtherGui.PrintDialogForm.resources
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.OutComeGui.OutComeAddForm.resources
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.OutComeGui.OutComeUserControl.resources
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.OutOfConscince.OutOfConscenseAddForm.resources
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.OutOfConscince.OutOfConscenseUserControl.resources
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.Reports.ReceiptUserControl.resources
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.SettingsForm.resources
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.StartForm.resources
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.StoresGui.StoreAddForm.resources
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.StoresGui.StoreUserControl.resources
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.SuppliersGui.SupplierAddForm.resources
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.SuppliersGui.SupplierUserControl.resources
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.UserGui.UserAddForm.resources
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.UserGui.UserLogin.resources
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.UserGui.UserUserControl.resources
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Main.resources
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Properties.Resources.resources
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.csproj.GenerateResource.cache
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.csproj.CopyComplete
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.dll
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.pdb
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.genruntimeconfig.cache
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\PdfSharpCore.dll
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\ICSharpCode.SharpZipLib.dll
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\SixLabors.Fonts.dll
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\SixLabors.ImageSharp.dll
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\de\PdfSharpCore.resources.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\SMSystem.exe
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\SMSystem.dll.config
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\SMSystem.deps.json
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\SMSystem.runtimeconfig.json
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\SMSystem.runtimeconfig.dev.json
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\SMSystem.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\SMSystem.pdb
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\ClosedXML.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\ExcelNumberFormat.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\FastMember.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\PdfSharpCore.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\ICSharpCode.SharpZipLib.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\SixLabors.Fonts.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\SixLabors.ImageSharp.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\de\PdfSharpCore.resources.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\SMSystem.Core.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\SMSystem.Data.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\SMSystem.Core.pdb
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\SMSystem.Data.pdb
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.csproj.AssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.AboutBox.resources
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.Analyze.AnalyzeUserControl.resources
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.CustomersGui.AddCustomerConscienceCard.resources
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.CustomersGui.CustomerAddForm.resources
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.CustomersGui.CustomerConscienceCardUserForm.resources
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.CustomersGui.CustomerUserControl.resources
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.DamageGui.DamageAddForm.resources
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.DamageGui.DamageUserControl.resources
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.Home.HomeUserControl.resources
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.IncomeGui.DamgeActionBox.resources
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.IncomeGui.IncomeAddForm.resources
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.IncomeGui.IncomeUserControl.resources
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.MaterailsGui.MaterailsAddForm.resources
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.MaterailsGui.MaterailsUserControl.resources
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.OtherGui.LoadingUser.resources
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.OtherGui.NotificaitonPanel.resources
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.OtherGui.NotifictionUser.resources
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.OtherGui.PrintDialogForm.resources
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.OutComeGui.OutComeAddForm.resources
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.OutComeGui.OutComeUserControl.resources
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.OutOfConscince.OutOfConscenseAddForm.resources
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.OutOfConscince.OutOfConscenseUserControl.resources
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.Reports.ReceiptUserControl.resources
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.SettingsForm.resources
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.StartForm.resources
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.StoresGui.StoreAddForm.resources
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.StoresGui.StoreUserControl.resources
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.SuppliersGui.SupplierAddForm.resources
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.SuppliersGui.SupplierUserControl.resources
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.UserGui.UserAddForm.resources
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.UserGui.UserLogin.resources
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.UserGui.UserUserControl.resources
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Main.resources
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Properties.Resources.resources
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.csproj.GenerateResource.cache
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.AssemblyInfo.cs
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.csproj.CopyComplete
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.pdb
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.genruntimeconfig.cache
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\SMSystem.exe
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\SMSystem.dll.config
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\SMSystem.deps.json
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\SMSystem.runtimeconfig.json
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\SMSystem.runtimeconfig.dev.json
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\SMSystem.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\SMSystem.pdb
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\ClosedXML.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\ExcelNumberFormat.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\FastMember.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\PdfSharpCore.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\ICSharpCode.SharpZipLib.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\SixLabors.Fonts.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\SixLabors.ImageSharp.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\de\PdfSharpCore.resources.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\SMSystem.Core.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\SMSystem.Data.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\SMSystem.Core.pdb
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\bin\Debug\netcoreapp3.1\SMSystem.Data.pdb
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.csproj.AssemblyReference.cache
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.AboutBox.resources
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.Analyze.AnalyzeUserControl.resources
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.CustomersGui.AddCustomerConscienceCard.resources
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.CustomersGui.CustomerAddForm.resources
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.CustomersGui.CustomerConscienceCardUserForm.resources
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.CustomersGui.CustomerUserControl.resources
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.DamageGui.DamageAddForm.resources
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.DamageGui.DamageUserControl.resources
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.Home.HomeUserControl.resources
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.IncomeGui.DamgeActionBox.resources
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.IncomeGui.IncomeAddForm.resources
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.IncomeGui.IncomeUserControl.resources
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.MaterailsGui.MaterailsAddForm.resources
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.MaterailsGui.MaterailsUserControl.resources
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.OtherGui.LoadingUser.resources
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.OtherGui.NotificaitonPanel.resources
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.OtherGui.NotifictionUser.resources
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.OtherGui.PrintDialogForm.resources
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.OutComeGui.OutComeAddForm.resources
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.OutComeGui.OutComeUserControl.resources
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.OutOfConscince.OutOfConscenseAddForm.resources
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.OutOfConscince.OutOfConscenseUserControl.resources
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.Reports.ReceiptUserControl.resources
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.SettingsForm.resources
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.StartForm.resources
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.StoresGui.StoreAddForm.resources
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.StoresGui.StoreUserControl.resources
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.SuppliersGui.SupplierAddForm.resources
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.SuppliersGui.SupplierUserControl.resources
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.UserGui.UserAddForm.resources
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.UserGui.UserLogin.resources
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Gui.UserGui.UserUserControl.resources
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Main.resources
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.Properties.Resources.resources
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.csproj.GenerateResource.cache
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.AssemblyInfoInputs.cache
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.AssemblyInfo.cs
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.csproj.CoreCompileInputs.cache
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.sourcelink.json
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.csproj.CopyComplete
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.pdb
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem\obj\Debug\netcoreapp3.1\SMSystem.genruntimeconfig.cache

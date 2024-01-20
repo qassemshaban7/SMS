@@ -1,0 +1,151 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ApplicationIcon></ApplicationIcon>
+    <Win32Resource />
+    <Authors></Authors>
+    <Company></Company>
+    <Product></Product>
+    <Description>تم انشاء هذا النظام برعاية
+		الاستاذ الدكتور / منصور حسن - رئيس الجامعه
+		الاستاذ الدكتور / محمد قايد - عميد الكليه
+		الاستاذ الدكتور / أحمد النجار - رئيس قسم علوم الحاسب
+		البشمهندس / ايهاب ابراهيم -المدرس المساعد بقسم علوم الحاسب
+		الاستاذ / هشام محمد - مدير الكليه
+
+		وعمل كل من طلاب الفرقه الثالثه قسم علوم الحاسب للعام الدراسى 2022- 2023
+
+		احمد حاتم محمد لطفي كامل
+		احمد خالد حامد احمد
+		احمد صبحي محمد عيد
+		احمد علي شعبان علي
+		اسمهان صلاح احمد علي
+		عمرو محمد علي رضوان
+		قاسم شعبان علي خليفه
+		مارينا صفوت برسوم جرجس
+		محمد عبدالحكيم مصطفى
+
+		برنامج ادارة المخازن مشروع متكامل خاص في ادارة المخازن
+يتضمن البرنامج ادارة كافة المتطلبات الخاصة بالمخازن من عملية الادخال الى الاخراج ويتميز البرنامج ب
+		تعدد المخازن
+		الموردين
+		العملاء
+		بيانات الادخال
+		قائمة اخراج
+		سجل الذمة
+		النسخ الاحتياطي والتعيين
+		اشعارات قبل اتلاف المادة
+		امكانية اتلاف المواد
+		امكانية الربط الشبكي
+		تعدد المستخدمين وصلاحياتهم
+		قائمة جرد لبيانات النظام
+		وصل استلام
+		تصدير البيانات
+		وغيرها من المميزات
+
+	</Description>
+    <Copyright></Copyright>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="ClosedXML" Version="0.96.0" />
+    <PackageReference Include="FastMember" Version="1.5.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="5.0.17">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="5.0.17">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="PdfSharpCore" Version="1.3.56" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SMSystem.Core\SMSystem.Core.csproj" />
+    <ProjectReference Include="..\SMSystem.Data\SMSystem.Data.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Gui\CustomersGui\AddCustomerConscienceCard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Gui\CustomersGui\CustomerConscienceCardUserForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Gui\OutOfConscince\OutOfConscenseAddForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Gui\OutOfConscince\OutOfConscenseUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Gui\DamageGui\DamageUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Gui\DamageGui\DamageAddForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Gui\IncomeGui\IncomeAddForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Gui\IncomeGui\IncomeUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Gui\OutComeGui\OutComeAddForm.cs" />
+    <Compile Update="Gui\OutComeGui\OutComeUserControl.cs" />
+    <Compile Update="Gui\SuppliersGui\SupplierAddForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Gui\SuppliersGui\SupplierUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Gui\MaterailsGui\MaterailsUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Gui\MaterailsGui\MaterailsAddForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Gui\OtherGui\NotifictionUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Gui\CustomersGui\CustomerAddForm.cs" />
+    <Compile Update="Gui\CustomersGui\CustomerUserControl.cs" />
+    <Compile Update="Gui\UserGui\UserLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Gui\UserGui\UserAddForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Gui\UserGui\UserUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Update="Properties\Settings.Designer.cs">
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+
+</Project>
