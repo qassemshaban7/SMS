@@ -1,0 +1,506 @@
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\CoverletSourceRootsMapping
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\testhost.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\SMSystem.deps.json
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\SMSystem.runtimeconfig.json
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\SMSystem.runtimeconfig.dev.json
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\SMSystem.exe
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\testhost.exe
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\SMSystem.Tests.deps.json
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\SMSystem.Tests.runtimeconfig.json
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\SMSystem.Tests.runtimeconfig.dev.json
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\SMSystem.Tests.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\SMSystem.Tests.pdb
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\ClosedXML.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\ExcelNumberFormat.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\FastMember.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\SMSystem.Core.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\SMSystem.Data.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\SMSystem.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\SMSystem.Core.pdb
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\SMSystem.Data.pdb
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\SMSystem.pdb
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\bin\Debug\netcoreapp3.1\SMSystem.dll.config
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\obj\Debug\netcoreapp3.1\SMSystem.Tests.csproj.AssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\obj\Debug\netcoreapp3.1\SMSystem.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\obj\Debug\netcoreapp3.1\SMSystem.Tests.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\obj\Debug\netcoreapp3.1\SMSystem.Tests.AssemblyInfo.cs
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\obj\Debug\netcoreapp3.1\SMSystem.Tests.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\obj\Debug\netcoreapp3.1\SMSystem.Tests.csproj.CopyComplete
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\obj\Debug\netcoreapp3.1\SMSystem.Tests.dll
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\obj\Debug\netcoreapp3.1\SMSystem.Tests.pdb
+C:\Users\TOSHIBA\Desktop\last\SMSystem.Tests\obj\Debug\netcoreapp3.1\SMSystem.Tests.genruntimeconfig.cache
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\CoverletSourceRootsMapping
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\testhost.exe
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\testhost.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\SMSystem.deps.json
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\SMSystem.runtimeconfig.json
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\SMSystem.runtimeconfig.dev.json
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\SMSystem.exe
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\SMSystem.Tests.deps.json
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\SMSystem.Tests.runtimeconfig.json
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\SMSystem.Tests.runtimeconfig.dev.json
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\SMSystem.Tests.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\SMSystem.Tests.pdb
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\ClosedXML.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\ExcelNumberFormat.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\FastMember.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\PdfSharpCore.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\ICSharpCode.SharpZipLib.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\SixLabors.Fonts.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\SixLabors.ImageSharp.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\de\PdfSharpCore.resources.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\SMSystem.Core.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\SMSystem.Data.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\SMSystem.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\SMSystem.Core.pdb
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\SMSystem.Data.pdb
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\SMSystem.pdb
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\SMSystem.dll.config
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\obj\Debug\netcoreapp3.1\SMSystem.Tests.csproj.AssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\obj\Debug\netcoreapp3.1\SMSystem.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\obj\Debug\netcoreapp3.1\SMSystem.Tests.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\obj\Debug\netcoreapp3.1\SMSystem.Tests.AssemblyInfo.cs
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\obj\Debug\netcoreapp3.1\SMSystem.Tests.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\obj\Debug\netcoreapp3.1\SMSystem.Tests.csproj.CopyComplete
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\obj\Debug\netcoreapp3.1\SMSystem.Tests.dll
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\obj\Debug\netcoreapp3.1\SMSystem.Tests.pdb
+C:\Users\TOSHIBA\Desktop\ادارة المخازن\SMSystem.Tests\obj\Debug\netcoreapp3.1\SMSystem.Tests.genruntimeconfig.cache
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\CoverletSourceRootsMapping
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\testhost.exe
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\testhost.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\SMSystem.deps.json
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\SMSystem.runtimeconfig.json
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\SMSystem.runtimeconfig.dev.json
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\SMSystem.exe
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\SMSystem.Tests.deps.json
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\SMSystem.Tests.runtimeconfig.json
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\SMSystem.Tests.runtimeconfig.dev.json
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\SMSystem.Tests.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\SMSystem.Tests.pdb
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\ClosedXML.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\ExcelNumberFormat.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\FastMember.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\PdfSharpCore.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\ICSharpCode.SharpZipLib.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\SixLabors.Fonts.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\SixLabors.ImageSharp.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\de\PdfSharpCore.resources.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\SMSystem.Core.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\SMSystem.Data.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\SMSystem.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\SMSystem.Core.pdb
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\SMSystem.Data.pdb
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\SMSystem.pdb
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\bin\Debug\netcoreapp3.1\SMSystem.dll.config
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\obj\Debug\netcoreapp3.1\SMSystem.Tests.csproj.AssemblyReference.cache
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\obj\Debug\netcoreapp3.1\SMSystem.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\obj\Debug\netcoreapp3.1\SMSystem.Tests.AssemblyInfoInputs.cache
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\obj\Debug\netcoreapp3.1\SMSystem.Tests.AssemblyInfo.cs
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\obj\Debug\netcoreapp3.1\SMSystem.Tests.csproj.CoreCompileInputs.cache
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\obj\Debug\netcoreapp3.1\SMSystem.Tests.sourcelink.json
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\obj\Debug\netcoreapp3.1\SMSystem.Tests.csproj.CopyComplete
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\obj\Debug\netcoreapp3.1\SMSystem.Tests.dll
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\obj\Debug\netcoreapp3.1\SMSystem.Tests.pdb
+C:\Users\KING\Downloads\projects with c#\ادارة المخازن\SMSystem.Tests\obj\Debug\netcoreapp3.1\SMSystem.Tests.genruntimeconfig.cache
