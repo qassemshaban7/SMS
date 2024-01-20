@@ -1,0 +1,10 @@
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem.Core\bin\Release\netcoreapp3.1\SMSystem.Core.deps.json
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem.Core\bin\Release\netcoreapp3.1\SMSystem.Core.dll
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem.Core\bin\Release\netcoreapp3.1\SMSystem.Core.pdb
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem.Core\obj\Release\netcoreapp3.1\SMSystem.Core.csproj.AssemblyReference.cache
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem.Core\obj\Release\netcoreapp3.1\SMSystem.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem.Core\obj\Release\netcoreapp3.1\SMSystem.Core.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem.Core\obj\Release\netcoreapp3.1\SMSystem.Core.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem.Core\obj\Release\netcoreapp3.1\SMSystem.Core.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem.Core\obj\Release\netcoreapp3.1\SMSystem.Core.dll
+C:\Users\TOSHIBA\source\repos\ادارة المخازن\SMSystem.Core\obj\Release\netcoreapp3.1\SMSystem.Core.pdb
